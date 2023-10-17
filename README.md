@@ -1,3 +1,5 @@
+[![An image of @ritamdas's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ritamdas)](https://holopin.io/@ritamdas)
+
 ### Hi there 👋
 # Welcome to My GitHub Profile! 🚀
 
