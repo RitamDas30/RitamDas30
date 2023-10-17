@@ -25,5 +25,5 @@ My goal is to contribute to the tech community by sharing my knowledge, collabor
 
 📫 Feel free to reach out for collaboration, questions, or just to say hello. Let's build amazing things together!
 
-Happy coding! 
+Happy coding! 💻 
 
